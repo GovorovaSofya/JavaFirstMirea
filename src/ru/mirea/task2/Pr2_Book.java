@@ -4,7 +4,6 @@ public class Pr2_Book {
     String author;
     String name;
     int year;
-    int price;
 
     //конструктор
     public Pr2_Book(String theAuthor, String theName, int theYear) {
