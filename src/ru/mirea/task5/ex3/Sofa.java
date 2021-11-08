@@ -1,3 +1,4 @@
+/*
 package ru.mirea.task5.ex3;
 
 public class Sofa extends Furniture {
@@ -44,3 +45,4 @@ public class Sofa extends Furniture {
         return "Тип мебели: " + name + ", цвет: " + color + ", размер: " + size + ", цена: " + price;
     }
 }
+*/

@@ -1,3 +1,4 @@
+/*
 package ru.mirea.task5.ex3;
 
 public class TestFurniture {
@@ -10,3 +11,4 @@ public class TestFurniture {
     }
 
 }
+*/

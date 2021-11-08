@@ -1,4 +1,4 @@
-package ru.mirea.task5.ex3;
+/*package ru.mirea.task5.ex3;
 
 public abstract class Furniture {
     protected String name;
@@ -23,4 +23,4 @@ public abstract class Furniture {
     public String toString() {
         return "Тип мебели: " + name;
     }
-}
+}*/
