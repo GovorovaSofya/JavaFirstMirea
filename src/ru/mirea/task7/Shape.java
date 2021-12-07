@@ -1,3 +1,4 @@
+/*
 package ru.mirea.task7;
 
 public abstract class Shape {
@@ -39,3 +40,4 @@ public abstract class Shape {
     }
 
 }
+*/

@@ -1,3 +1,4 @@
+/*
 package ru.mirea.task7;
 import java.math.*;
 
@@ -44,3 +45,4 @@ public class Circle extends Rectangle {
     }
 
 }
+*/

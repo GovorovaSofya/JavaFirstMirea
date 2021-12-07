@@ -1,3 +1,4 @@
+/*
 package ru.mirea.task7;
 
 public class Test {
@@ -73,3 +74,4 @@ public class Test {
         System.out.println(sq1.getLength());
     }
 }
+*/

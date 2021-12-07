@@ -1,3 +1,4 @@
+/*
 package ru.mirea.task7;
 
 public class Rectangle extends Shape {
@@ -54,3 +55,4 @@ public class Rectangle extends Shape {
         return "Shape: rectangle, width and length: " + width + ", " + length + ", color: " + this.color;
     }
 }
+*/
